@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Mohamed</h1>
-<li>I'm interested in software engineering,web development,databases</li>
-
-- 💬 Ask me about **nodejs**
+  <li>I'm interested in software engineering,web development,databases</li>
 
 - 📫 How to reach me **mahmoud.abdelbadea567@gmail.com**
 
