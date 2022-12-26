@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Mohamed</h1>
-  <li>I'm interested in software engineering,web development,databases</li>
 
-- 📫 How to reach me **mahmoud.abdelbadea567@gmail.com**
+
+   <li>I'm interested in software engineering,web development,databases</li>
+   <li>How to reach me **mahmoud.abdelbadea567@gmail.com**</li>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
