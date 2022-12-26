@@ -2,7 +2,7 @@
 
 
    <li>I'm interested in software engineering,web development,databases</li>
-   <li>How to reach me **mahmoud.abdelbadea567@gmail.com**</li>
+   <li>How to reach me mahmoud.abdelbadea567@gmail.com</li>
 
 
 
