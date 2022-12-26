@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Mohamed</h1>
-<h3 align="center">I'm interested in software engineering,web development,databases</h3>
+- I'm interested in software engineering,web development,databases
 
 - 💬 Ask me about **nodejs**
 
