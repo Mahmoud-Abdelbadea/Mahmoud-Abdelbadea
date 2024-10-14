@@ -1,71 +1,16 @@
-# Contract Agreement
+<h1 align="center">Hi 👋, I'm Mahmoud Mohamed</h1>
 
-This Contract ("Agreement") is made and entered into on **[Date]**, by and between:
 
-**Party A**: [Full Legal Name], located at [Address], hereinafter referred to as "**Party A**".
+   <li>I'm interested in software engineering,web development,databases</li>
+   <li>How to reach me mahmoud.abdelbadea567@gmail.com</li>
 
-**Party B**: [Full Legal Name], located at [Address], hereinafter referred to as "**Party B**".
 
-**Collectively referred to as the "Parties".**
 
-## 1. **Purpose**
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/https://dev.to/mahmoudabdelbadea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/mahmoudabdelbadea" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mahmoud-mohamed-099141206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahmoud-mohamed-099141206/" height="30" width="40" /></a>
+</p>
 
-The purpose of this Agreement is to set forth the terms and conditions under which Party A will provide [Services/Product] to Party B.
-
-## 2. **Services or Deliverables**
-
-Party A agrees to perform the following services or deliverables for Party B:
-- [Service/Deliverable 1]
-- [Service/Deliverable 2]
-- [Additional items as needed]
-
-## 3. **Compensation**
-
-In exchange for the services provided, Party B agrees to compensate Party A as follows:
-- Total payment of **[Amount]**.
-- Payment schedule: [Upfront, Milestones, or Upon Completion].
-
-## 4. **Term and Termination**
-
-This Agreement shall commence on **[Start Date]** and shall continue until **[End Date]**, unless terminated earlier under the following conditions:
-- Either Party may terminate the Agreement with **[Number]** days’ written notice.
-- In the event of a breach of this Agreement, the non-breaching Party may terminate the Agreement with immediate effect.
-
-## 5. **Confidentiality**
-
-Both Parties agree to maintain confidentiality regarding any proprietary or sensitive information exchanged under this Agreement. This clause remains in effect for **[Number of Years]** after the termination of the Agreement.
-
-## 6. **Intellectual Property**
-
-All intellectual property rights related to the services performed under this Agreement shall belong to:
-- **Party A** / **Party B** / **Jointly owned**, as agreed.
-
-## 7. **Indemnification**
-
-Each Party agrees to indemnify, defend, and hold harmless the other from any claims, damages, or liabilities arising from breaches of this Agreement.
-
-## 8. **Governing Law**
-
-This Agreement shall be governed by the laws of **[Jurisdiction]**.
-
-## 9. **Amendments**
-
-Any amendments or modifications to this Agreement must be made in writing and signed by both Parties.
-
-## 10. **Signatures**
-
-By signing below, both Parties agree to the terms and conditions set forth in this Agreement.
-
----
-
-**Party A**:  
-Signature: _____________________  
-Name: [Full Name]  
-Date: _____________________  
-
----
-
-**Party B**:  
-Signature: _____________________  
-Name: [Full Name]  
-Date: _____________________  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
